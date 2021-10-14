@@ -5,3 +5,6 @@ Try this trick and spin it, yeah!
 
 
 text for non-forward merge
+
+
+random text added while in new_branch
