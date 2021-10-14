@@ -3,6 +3,8 @@ With your feet in the air and your head on the ground!
 Try this trick and spin it, yeah!
 
 
-
 Your head will collapse but there's nothing in it and you ask yourself
 Where is my mind! Where is my mind.
+
+text for non-forward merge
+random text added while in new_branch
