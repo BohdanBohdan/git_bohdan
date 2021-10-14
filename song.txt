@@ -7,3 +7,4 @@ Try this trick and spin it, yeah!
 
 
 Some text for new_branch branch
+more text for one more commit
