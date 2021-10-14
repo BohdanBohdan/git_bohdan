@@ -1,4 +1,11 @@
 
 With your feet in the air and your head on the ground!
 -------------------------------------------------------
+<<<<<<< HEAD
 Try this trick and spin it, yeah!
+=======
+Try this trick and spin it, yeah!
+
+
+text for non-forward merge
+>>>>>>> new_branch
